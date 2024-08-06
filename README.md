@@ -3,11 +3,14 @@
 
 ### About me:
 
-`Just an 17 yo trying to be developer`
+**Just an 16 yo trying to be developer**
+
 ---
 
 ### Contact me on discord :
 <img src="https://discord.c99.nl/widget/theme-4/1268009643485954162.png">
+
+---
 
 ### Goals:
 [![My Skills](https://skillicons.dev/icons?i=ruby,py,html,css,javascript,cpp,c,bash,lua,rust)](https://skillicons.dev)
@@ -22,6 +25,8 @@
 - [ ] Doom made in C++
 - [ ] Kernel made in C
 - [ ] Hack-n-slash made in lua  
+
+---
 
 ### Tools :
 [![My Skills](https://skillicons.dev/icons?i=vscode,emacs,neovim)](https://skillicons.dev)
