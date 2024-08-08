@@ -17,6 +17,11 @@
 
 ### My newbie projetcs :
 
+#### *Java* :
+- [ ] plugin hikabrain
+- [ ] plugin shop
+- [ ] plugin faction
+
 #### *Python* :
 - [ ] discord bot
 - [ ] token logger
@@ -38,19 +43,19 @@
 - [ ] kernel
 
 #### *bash* :
-- [ ] 
-- [ ] 
-- [ ]  
+- [ ] ASCII portfolio
+- [ ] a build script
+- [ ] TUI game
 
 #### *lua* :
-- [ ] 
-- [ ] 
-- [ ]  
+- [ ] pc game
+- [ ] Roblox game
+- [ ] mobile game 
 
 #### *Rust* :
-- [ ] 
-- [ ] 
-- [ ]  
+- [ ] console
+- [ ] 2d shooter game
+- [ ] Debugger 
 
 ---
 
