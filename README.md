@@ -13,18 +13,44 @@
 ---
 
 ### Goals:
-[![My Skills](https://skillicons.dev/icons?i=ruby,py,html,css,javascript,cpp,c,bash,lua,rust)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,javascript,cpp,c,bash,lua,rust,java)](https://skillicons.dev)
 
-### My projetcs :
+### My newbie projetcs :
 
-- [ ] Multitools made in python
-- [ ] personal web page
-- [ ] debugger made in rust
-- [ ] dotfiles for Hyprland
-- [ ] Discord bot made in ruby
-- [ ] Doom made in C++
-- [ ] Kernel made in C
-- [ ] Hack-n-slash made in lua  
+#### *Python* :
+- [ ] discord bot
+- [ ] token logger
+- [ ] api 
+
+#### *Html + Css + Js* :
+- [ ] Personal web page
+- [ ] startpage for browser
+- [ ] a website using my api  
+
+#### *C++* :
+- [ ] calculator for Scientific Operations
+- [ ] simple web server
+- [ ] chess game  
+
+#### *C* :
+- [ ] number system conversion
+- [ ] library Management System
+- [ ] kernel
+
+#### *bash* :
+- [ ] 
+- [ ] 
+- [ ]  
+
+#### *lua* :
+- [ ] 
+- [ ] 
+- [ ]  
+
+#### *Rust* :
+- [ ] 
+- [ ] 
+- [ ]  
 
 ---
 
