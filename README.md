@@ -3,7 +3,7 @@
 
 ### About me:
 
-**Just an 16 yo trying to be developer**
+**Just an 16 yo trying to be a developer**
 
 ---
 
