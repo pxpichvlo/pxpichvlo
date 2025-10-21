@@ -8,7 +8,7 @@
 ---
 
 ### Contact me on discord :
-<img src="[https://discord.c99.nl/widget/theme-4/1268009643485954162.png]">
+<img src="(https://discord.c99.nl/widget/theme-4/1268009643485954162.png)">
 
 ---
 
