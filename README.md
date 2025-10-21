@@ -3,7 +3,7 @@
 
 ### About me:
 
-**Just an 16 yo trying to be a developer**
+**Just an 18 yo trying to be a developer**
 
 ---
 
@@ -19,42 +19,42 @@
 
 #### *Java* :
 - [ ] plugin hikabrain
-- [ ] plugin shop
+- [x] plugin shop
 - [ ] plugin faction
 
 #### *Python* :
-- [ ] discord bot
-- [ ] token logger
+- [x] discord bot
+- [x] token logger
 - [ ] api 
 
 #### *Html + Css + Js* :
-- [ ] Personal web page
-- [ ] startpage for browser
+- [x] Personal web page
+- [x] startpage for browser
 - [ ] a website using my api  
 
 #### *C++* :
-- [ ] calculator for Scientific Operations
+- [x] calculator for Scientific Operations
 - [ ] simple web server
-- [ ] chess game  
+- [x] chess game  
 
 #### *C* :
-- [ ] number system conversion
+- [x] number system conversion
 - [ ] library Management System
 - [ ] kernel
 
 #### *bash* :
-- [ ] ASCII portfolio
+- [x] ASCII portfolio
 - [ ] a build script
-- [ ] TUI game
+- [x] TUI game
 
 #### *lua* :
 - [ ] pc game
-- [ ] Roblox game
+- [x] Roblox game
 - [ ] mobile game 
 
 #### *Rust* :
-- [ ] console
-- [ ] 2d shooter game
+- [x] console
+- [x] 2d shooter game
 - [ ] Debugger 
 
 ---
