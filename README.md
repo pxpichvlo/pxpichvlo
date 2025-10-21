@@ -63,4 +63,4 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode,emacs,neovim)](https://skillicons.dev)
 
 ### OS :
-[![My Skills](https://skillicons.dev/icons?i=linux,arch,freebsd,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,arch,bsd,windows)](https://skillicons.dev)
