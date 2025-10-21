@@ -60,7 +60,7 @@
 ---
 
 ### Tools :
-[![My Skills](https://skillicons.dev/icons?i=vscodium,emacs,neovim,roblox)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscodium,emacs,neovim,robloxstudio)](https://skillicons.dev)
 
 ### OS :
 [![My Skills](https://skillicons.dev/icons?i=linux,arch,bsd,windows)](https://skillicons.dev)
